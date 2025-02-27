@@ -74,7 +74,7 @@ npm install
 ```
 
 ### 3. Konfigurasi API Endpoint
-Pastikan di dalam file `src/api.js` atau di tempat yang sesuai dalam kode, backend mengarah ke:
+Pastikan di dalam file yang mengatur endpoint backend atau di tempat yang sesuai dalam kode, backend mengarah ke:
 ```javascript
 const API_URL = "http://localhost:8080/products";
 ```
